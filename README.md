@@ -1,1 +1,1 @@
-vguetler is my personal website built using CSS, HTML and JS 
+vguetler is my portfolio website built using CSS, HTML and JS 
