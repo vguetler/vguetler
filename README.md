@@ -3,7 +3,7 @@
 
 **Cybersecurity Researcher · Computational Social Scientist · Data Scientist**
 
-I use Python, R, and machine learning to study cybercrime, online extremism, and algorithmic accountability. My work sits at the intersection of threat intelligence, NLP, and AI ethics — translating complex data into findings that matter for policy and practice.
+I use Python, R, and machine learning to study cybercrime, data breaches, online extremism, and algorithmic accountability. My work sits at the intersection of threat intelligence, NLP, and AI ethics — translating complex data into findings that matter for policy and practice.
 
 ---
 
@@ -12,7 +12,7 @@ I use Python, R, and machine learning to study cybercrime, online extremism, and
 - **Cyber threat intelligence** — topic modeling and social network analysis of dark web forums and hacker communities
 - **Online extremism** — computational text analysis of jihadist networks, sentiment analysis of radicalization on social media
 - **AI fairness & accountability** — algorithmic auditing, facial recognition bias, community-centered AI policy toolkits
-- **Cybercrime policy** — law enforcement readiness, training gaps, and cybercrime investigation in practice
+- **Cybercrime policy** — law enforcement readiness, training gaps, and cybercrime investigation in practice, data breaches and other risk factors
 
 ---
 
